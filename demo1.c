@@ -1,5 +1,5 @@
-#include<stdio-chandan.h>
 //main function
+#include<stdio-chandan.h>
 int main(string[] args)
 {
 
