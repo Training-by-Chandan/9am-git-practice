@@ -1,7 +1,7 @@
-#include<stdio.h>
-//main function
 int main(string[] args)
+//main function
 {
+#include<stdio.h>
 
 	printf("\n");
 	scanf();
