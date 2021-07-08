@@ -16,5 +16,9 @@ int main(string[] args)
 	scanf();
 
 	scanf();
+	scanf();
+	scanf();
+	scanf();
+	scanf();
 	return 0;
 }
